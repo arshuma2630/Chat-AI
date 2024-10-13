@@ -69,8 +69,7 @@ function App() {
       className="w-full md:w-2/3 lg:w-1/2 xl:w-1/3 text-center rounded-lg shadow-lg bg-white py-6 px-4 transition-all duration-500 transform hover:scale-105"
     >
         <h1 className="text-4xl font-bold text-blue-500 mb-4 animate-bounce">Chat AI</h1>
-      {/* <a href="https://github.com/Vishesh-Pandey/chat-ai" target="_blank" rel="noopener noreferrer"> */}
-      {/* </a> */}
+      
       <textarea
         required
         className="border border-gray-300 rounded w-full my-2 min-h-fit p-3 transition-all duration-300 focus:border-blue-400 focus:shadow-lg"
